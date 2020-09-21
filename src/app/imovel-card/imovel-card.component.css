@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+mat-card {
+  text-align: center;
+}

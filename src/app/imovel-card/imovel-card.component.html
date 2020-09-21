@@ -1,0 +1,11 @@
+<mat-card>
+  <img [src]="imgUrl" alt="Foto da Casa">
+  <div class="container">
+    <span>{{address}}</span>
+    <span>{{price | currency: 'BRL' : 'symbol' : "4.0-2"}}</span>
+  </div>
+  <div class="container">
+    <span>{{owner}}</span>
+    <span>{{type}}</span>
+  </div>
+</mat-card>
