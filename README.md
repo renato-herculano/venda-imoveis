@@ -2,6 +2,10 @@
 
 Esse projeto foi gerado através do [Angular CLI](https://github.com/angular/angular-cli) Versão 10.1.1.
 
+## Objetivo
+
+O projeto tem como objetivo listar dados de venda de imóveis através do consumo de uma API (https://it3imoveis.firebaseio.com/vendas.json).
+
 ## Executando o projeto
 
 Para rodar o projeto em sua máquina local, você deverá instalar em sua máquina:
